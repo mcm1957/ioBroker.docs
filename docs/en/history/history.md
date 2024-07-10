@@ -540,3 +540,10 @@ Adapter for Gree and C&H conditioners.
 - Added support for the adapter's auto-update option. New version of js-controller required.
 - Only installed adapters in the adapter tab or first 100 adapters are shown. To see more adapters, the user must enter some filter.
 
+## iopooleco (10.7.2024) – new adapter at stable
+https://github.com/mule1972/ioBroker.iopooleco
+
+<img src="https://github.com/mule1972/ioBroker.iopooleco/blob/main/admin/iopooleco.png" width="100" height="100" />
+
+Connect to your pool meter ECO from iopool (https://iopool.com) and receive ORP, PH and temperature via ioBroker every 15 minutes.
+
