@@ -93,7 +93,7 @@
     "id": "Fitbit-API-deprecation",
     "class": "warning",
     "fa-icon": "exclamation-circle",
-    "created": "2022-09-19T23:00:00.000Z",
+    "created": "2022-09-19T23:00:00.001Z",
     "conditions": {
       "fitbit-api": "installed"
     }
@@ -126,7 +126,7 @@
     "id": "Netatmo2-AuthChange",
     "class": "warning",
     "fa-icon": "exclamation-circle",
-    "created": "2022-09-19T23:00:00.000Z",
+    "created": "2022-09-19T23:00:00.002Z",
     "conditions": {
       "netatmo": "smaller(2.0.0)"
     }
@@ -299,7 +299,7 @@
       "zh-cn": "新的一栏管制容忍5.0x现可在联索政治处的渠道查阅。 需要更新几名记者! 有关这一版本的更多资料和FAQ和其他指示可在以下网址查阅:https://forum.iobroker.net/post/1002513。"
     },
     "id": "jscontroller50xinfobeta",
-    "created": "2022-03-05T18:10:00.000Z",
+    "created": "2022-06-12T18:10:00.000Z",
     "class": "info",
     "fa-icon": "exclamation-circle",
     "repo": "latest",
@@ -314,7 +314,7 @@
       "ru": "Адаптер km200 отсчитан сейчас",
       "pt": "Adapter km200 é deprecated agora",
       "nl": "Adapter km200 is nu gedepreceerd",
-      "fr": "Adaptateur km200 est déprécié maintenant",
+      "fr": "Adaptateur km200st déprécié maintenant",
       "it": "L'adattatore km200 è deprecato ora",
       "es": "El adaptador km200 está deprecado ahora",
       "pl": "Adapter km200 jest obecnie zaniedbany",
