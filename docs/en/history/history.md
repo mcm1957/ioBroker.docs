@@ -1080,6 +1080,14 @@ https://github.com/ioBroker/ioBroker.serial-gps
 
 This adapter reads GPS data from a serial or USB GPS device and makes it available in ioBroker.
 
+## mitsubishi-local-controls (28.1.2026) – new adapter at stable repository
+hhttps://github.com/Black-Thunder/ioBroker.mitsubishi-local-controls
+
+<img src="https://github.com/Black-Thunder/ioBroker.mitsubishi-local-control/main/admin/mitsubishi-local-control.png" width="100" height="100" />
+
+The mitsubishi-local-control adapter integrates Mitsubishi Electric air conditioning systems into ioBroker using a direct local connection.
+
+
 
 <!--  ATTENTION: use https://raw.githubusercontent.com/... address for icons ! -->
 
