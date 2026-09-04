@@ -1535,6 +1535,21 @@ https://github.com/FernetMenta/ioBroker.eebus-go
 
 This adapter enables iobroker to become a custom energy manager in the context of §14a EnWG and §9 EEG. §14a EnWG is a German law that requires controllable systems like wallboxes or heatpumps to be dimmable if they can consume more than 4.2kW. §9 EEG requires production systems (e.g. PV inverters) to be curtailable by the grid operator. These laws are enforced by controlboxes that run on or are connected to smart meter gateways. A controlbox signals a limitation event directly to a controllable system or to a custom energy manager.
 
+## midas-aquatemp (4.9.2026) – new adapter at stable repository
+https://github.com/MiRo1310/ioBroker.midas-aquatemp
+
+<img src="https://raw.githubusercontent.com/MiRo1310/ioBroker.midas-aquatemp/main/admin/midas-aquatemp.png" width="100" height="100" />
+
+midas-aquatemp adapter for ioBroker
+
+## sunenergyxt500 (4.9.2026) – new adapter at stable repository
+https://github.com/Creekhail/ioBroker.sunenergyxt500
+
+<img src="https://raw.githubusercontent.com/Creekhail/ioBroker.sunenergyxt500/main/admin/sunenergyxt500.png" width="100" height="100" />
+
+Integration and self-consumption control for SunEnergyXT 500 / 500 PRO AC-coupled hybrid battery storage systems (manufacturer: SunEnergyXT) via the device's local HTTP API — no cloud account required. One instance manages up to three heads (storage towers).
+
+
 
 <!--  ######################## keep these lines at end of file as a reminder ######################## -->
 <!--  #####   ATTENTION: use https://raw.githubusercontent.com/... address for icons !            ### -->
